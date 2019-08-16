@@ -1,0 +1,26 @@
+{
+  "name": "ecrecovery-tester",
+  "version": "1.0.0",
+  "description": "NodeJS script for testing the new ec-recover feature of aeternity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikita-fuchs/ecrecovery-tester.git"
+  },
+  "keywords": [
+    "ecrecover",
+    "aeternity"
+  ],
+  "author": "Nikita Fuchs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikita-fuchs/ecrecovery-tester/issues"
+  },
+  "homepage": "https://github.com/nikita-fuchs/ecrecovery-tester#readme",
+  "dependencies": {
+    "eth-crypto": "^1.4.0"
+  }
+}
