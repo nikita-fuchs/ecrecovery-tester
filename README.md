@@ -8,3 +8,9 @@ this thing here
 4. puts these values back together to a signature
 5. gets public key from signature
 6. gets signer's address from signature
+
+Run:
+```
+$ npm install
+$ node index.js
+```
