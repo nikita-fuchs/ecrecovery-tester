@@ -16,6 +16,7 @@ const message = 'foobar';
 // sign a message with private key
 console.log("Signing message with private key..")
 const messageHash = EthCrypto.hash.keccak256(message);
+console.log("keccak256 hash of the message: ", messageHash)
 const signature = EthCrypto.sign(
       identity.privateKey, // privateKey
       messageHash // hash of message
