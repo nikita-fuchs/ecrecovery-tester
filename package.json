@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/nikita-fuchs/ecrecovery-tester#readme",
   "dependencies": {
-    "eth-crypto": "^1.4.0"
+    "eth-crypto": "^1.9.0"
   }
 }
